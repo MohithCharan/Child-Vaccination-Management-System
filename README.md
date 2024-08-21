@@ -39,13 +39,13 @@ The Child Vaccination Management System is a console-based Node.js application d
   
   This screenshot shows the initial running of the Child Vaccination Management System through the command line.
 
-  ![RUN PROJECT](images/run.png)
+  ![RUN PROJECT](run.png)
 
 - **Registering as a Parent**:
 
   This screenshot demonstrates the parent registration process where users can create an account.
 
-  ![REGISTER PROJECT](images/register.png)
+  ![REGISTER PROJECT](register.png)
 
 - **Logging in as a Parent**:
 
@@ -57,23 +57,23 @@ The Child Vaccination Management System is a console-based Node.js application d
 
   This screenshot shows the interface where parents can add details about their children, including name, birthdate, and other relevant information.
 
-  ![ADD CHILD PROJECT](images/addchild.png)
+  ![ADD CHILD PROJECT](addchild.png)
 
 - **Booking a Vaccination Appointment**:
 
   This screenshot depicts the process of booking a vaccination appointment for a child. Parents can select available slots and confirm the booking.
 
-  ![BOOK PROJECT](images/book.png)
+  ![BOOK PROJECT](book.png)
 
 - **Admin Login**:
 
   This screenshot shows the admin login process. The admin uses their credentials to access administrative features.
 
-  ![ADMIN PROJECT](images/admin.png)
+  ![ADMIN PROJECT](admin.png)
 
 - **Viewing All Booked Appointments (Admin)**:
 
   This screenshot illustrates the admin interface where all booked vaccination appointments are displayed. The admin can see which parent booked the appointment and which vaccinations are scheduled.
 
-  ![VIEW PROJECT](images/viewall.png)
+  ![VIEW PROJECT](viewall.png)
 
