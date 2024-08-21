@@ -51,7 +51,7 @@ The Child Vaccination Management System is a console-based Node.js application d
 
   This screenshot illustrates the parent login process, allowing registered parents to access their accounts.
 
-  ![LOGIN PROJECT](images/parent.png)
+  ![LOGIN PROJECT](parent.png)
 
 - **Adding a Child's Details**:
 
